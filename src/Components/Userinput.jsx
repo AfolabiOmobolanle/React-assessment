@@ -3,7 +3,7 @@ import React from 'react'
 function Userinput() {
   return (
     <div className='container'>
-      <input type="text" />
+      <input type="text" placeholder='Enter your name' />
 
     </div>
   )
